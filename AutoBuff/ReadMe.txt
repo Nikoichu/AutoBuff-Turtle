@@ -1,8 +1,6 @@
 AutoBuff casts self-buffs, weapon buffs, tracking abilites, aspects, and seals.
 
-Originally authored by Frosty, adopted by Dsanai in August 2005.
-
-Frosty is no longer playing World of Warcraft. He has allowed me to officially adopt AutoBuff. I intend to continue it while respecting his vision. Please direct any suggestions, comments, or blame, to Dsanai. Frosty only deserves praise. :)
+Originally authored by Frosty, adopted by Dsanai in August 2005. Patched for TurtleWoW by Imonobor in 2026.
 
 FEATURES =================================
 
@@ -35,7 +33,7 @@ CLASS ABILITIES ==========================
 
 -- All: Tracking abilities
 -- Rogue: "Feint", "Blade Flurry", "Evasion", "Sprint", "Cold Blood"
--- Shaman: "Lightning Shield", "Water Breathing", and all four weapon buffs.
+-- Shaman: "Lightning Shield", "Water Shield", "Earth Shield", "Water Breathing", and all four weapon buffs.
 -- Priest: "Inner Fire", "Power Word: Fortitude", "Power Word: Shield", "Shadow Protection", "Elune's Grace", "Fear Ward", "Divine Spirit", "Feedback", "Shadowguard", "Touch of Weakness", "Fade", "Renew", "Focused Casting"
 -- Warrior: "Battle Shout", "Bloodrage", "Berserker Rage"
 -- Druid: "Nature's Grasp", "Mark of the Wild", "Thorns", "Omen of Clarity", "Track Humanoids" (Cat Form), "Cower" (Cat Form), "Rejuvenation"
